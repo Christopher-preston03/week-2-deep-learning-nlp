@@ -1,0 +1,7 @@
+# Week 2 - Tuesday Demos: Backpropagation, Gradient Descent, Batch Normalization
+# Requirements for training optimization demos
+
+tensorflow>=2.10.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+
