@@ -14,7 +14,7 @@ This week covered _____. By the end, trainees can:
 ## Concept Quick Reference
 
 | Concept | Definition | Key Use Case |
-|---------|------------|--------------||
+|---------|------------|--------------|
 | TensorBoard | _____ | _____ |
 | Autoencoder | _____ | _____ |
 | Reconstruction Loss | _____ | _____ |
